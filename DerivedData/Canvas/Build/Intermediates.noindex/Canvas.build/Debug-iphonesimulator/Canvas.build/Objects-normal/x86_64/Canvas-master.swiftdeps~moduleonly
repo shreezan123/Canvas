@@ -1,0 +1,6 @@
+version: "Apple Swift version 4.2 (swiftlang-1000.11.37.1 clang-1000.11.45.1)"
+options: "c00d14dff86781f2cd4beaa3008716a4"
+build_time: [1540142135, 284018000]
+inputs:
+  "/Users/shrijanaryal/Desktop/ios/Canvas/Canvas/CanvasViewController.swift": [1540142135, 0]
+  "/Users/shrijanaryal/Desktop/ios/Canvas/Canvas/AppDelegate.swift": [1540137275, 0]

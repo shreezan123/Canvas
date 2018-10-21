@@ -1,0 +1,417 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>logFormatVersion</key>
+	<integer>9</integer>
+	<key>logs</key>
+	<dict>
+		<key>01FB68CC-4CB5-4E5A-9761-4636B604F07C</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>01FB68CC-4CB5-4E5A-9761-4636B604F07C.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>W</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>Canvas project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Canvas</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>0</integer>
+			<key>signature</key>
+			<string>Build Canvas</string>
+			<key>timeStartedRecording</key>
+			<real>561833308.85200298</real>
+			<key>timeStoppedRecording</key>
+			<real>561833315.83021998</real>
+			<key>title</key>
+			<string>Build Canvas</string>
+			<key>uniqueIdentifier</key>
+			<string>01FB68CC-4CB5-4E5A-9761-4636B604F07C</string>
+		</dict>
+		<key>213B02C4-E752-40C4-918C-4063A0FD0D93</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>213B02C4-E752-40C4-918C-4063A0FD0D93.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>W</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>Canvas project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Canvas</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>0</integer>
+			<key>signature</key>
+			<string>Build Canvas</string>
+			<key>timeStartedRecording</key>
+			<real>561834706.40837395</real>
+			<key>timeStoppedRecording</key>
+			<real>561834709.39090502</real>
+			<key>title</key>
+			<string>Build Canvas</string>
+			<key>uniqueIdentifier</key>
+			<string>213B02C4-E752-40C4-918C-4063A0FD0D93</string>
+		</dict>
+		<key>35DF7C81-8D74-4D9A-89F4-411EA4FD09DB</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>35DF7C81-8D74-4D9A-89F4-411EA4FD09DB.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>W</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>Canvas project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Canvas</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>0</integer>
+			<key>signature</key>
+			<string>Build Canvas</string>
+			<key>timeStartedRecording</key>
+			<real>561834044.58463097</real>
+			<key>timeStoppedRecording</key>
+			<real>561834048.31439602</real>
+			<key>title</key>
+			<string>Build Canvas</string>
+			<key>uniqueIdentifier</key>
+			<string>35DF7C81-8D74-4D9A-89F4-411EA4FD09DB</string>
+		</dict>
+		<key>4ECC2122-D2E2-42F1-AE6E-8F790C180FF5</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>4ECC2122-D2E2-42F1-AE6E-8F790C180FF5.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>W</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>Canvas project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Canvas</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>0</integer>
+			<key>signature</key>
+			<string>Build Canvas</string>
+			<key>timeStartedRecording</key>
+			<real>561834638.76939404</real>
+			<key>timeStoppedRecording</key>
+			<real>561834641.645859</real>
+			<key>title</key>
+			<string>Build Canvas</string>
+			<key>uniqueIdentifier</key>
+			<string>4ECC2122-D2E2-42F1-AE6E-8F790C180FF5</string>
+		</dict>
+		<key>67E4935A-E510-4A37-91DF-BC319B525786</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>67E4935A-E510-4A37-91DF-BC319B525786.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>W</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>Canvas project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Canvas</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>0</integer>
+			<key>signature</key>
+			<string>Build Canvas</string>
+			<key>timeStartedRecording</key>
+			<real>561834861.69954503</real>
+			<key>timeStoppedRecording</key>
+			<real>561834863.14938104</real>
+			<key>title</key>
+			<string>Build Canvas</string>
+			<key>uniqueIdentifier</key>
+			<string>67E4935A-E510-4A37-91DF-BC319B525786</string>
+		</dict>
+		<key>721F1141-E640-434B-89EA-CFB9116A585D</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>721F1141-E640-434B-89EA-CFB9116A585D.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>W</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>Canvas project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Canvas</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>0</integer>
+			<key>signature</key>
+			<string>Build Canvas</string>
+			<key>timeStartedRecording</key>
+			<real>561834935.18073797</real>
+			<key>timeStoppedRecording</key>
+			<real>561834938.21401799</real>
+			<key>title</key>
+			<string>Build Canvas</string>
+			<key>uniqueIdentifier</key>
+			<string>721F1141-E640-434B-89EA-CFB9116A585D</string>
+		</dict>
+		<key>75104478-0766-405F-A9B6-7C09E4EC4440</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>75104478-0766-405F-A9B6-7C09E4EC4440.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>W</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>Canvas project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Canvas</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>0</integer>
+			<key>signature</key>
+			<string>Build Canvas</string>
+			<key>timeStartedRecording</key>
+			<real>561834513.842996</real>
+			<key>timeStoppedRecording</key>
+			<real>561834516.57336402</real>
+			<key>title</key>
+			<string>Build Canvas</string>
+			<key>uniqueIdentifier</key>
+			<string>75104478-0766-405F-A9B6-7C09E4EC4440</string>
+		</dict>
+		<key>9294E828-22C4-4505-A2A3-7F77038360B6</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>9294E828-22C4-4505-A2A3-7F77038360B6.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>W</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>Canvas project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Canvas</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>0</integer>
+			<key>signature</key>
+			<string>Build Canvas</string>
+			<key>timeStartedRecording</key>
+			<real>561834756.28593898</real>
+			<key>timeStoppedRecording</key>
+			<real>561834758.73921096</real>
+			<key>title</key>
+			<string>Build Canvas</string>
+			<key>uniqueIdentifier</key>
+			<string>9294E828-22C4-4505-A2A3-7F77038360B6</string>
+		</dict>
+		<key>A14B300D-DFAA-42E1-B41D-A7BE73819E77</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>A14B300D-DFAA-42E1-B41D-A7BE73819E77.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>W</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>Canvas project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Canvas</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>0</integer>
+			<key>signature</key>
+			<string>Build Canvas</string>
+			<key>timeStartedRecording</key>
+			<real>561833408.24199796</real>
+			<key>timeStoppedRecording</key>
+			<real>561833410.73484802</real>
+			<key>title</key>
+			<string>Build Canvas</string>
+			<key>uniqueIdentifier</key>
+			<string>A14B300D-DFAA-42E1-B41D-A7BE73819E77</string>
+		</dict>
+		<key>A1F9CF01-A11C-4BF6-A52A-E8017E294D13</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>A1F9CF01-A11C-4BF6-A52A-E8017E294D13.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>W</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>Canvas project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Canvas</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>0</integer>
+			<key>signature</key>
+			<string>Build Canvas</string>
+			<key>timeStartedRecording</key>
+			<real>561834135.19899404</real>
+			<key>timeStoppedRecording</key>
+			<real>561834135.288656</real>
+			<key>title</key>
+			<string>Build Canvas</string>
+			<key>uniqueIdentifier</key>
+			<string>A1F9CF01-A11C-4BF6-A52A-E8017E294D13</string>
+		</dict>
+		<key>A26562CF-C9EB-4AAA-BC0B-82680A2CF79A</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>A26562CF-C9EB-4AAA-BC0B-82680A2CF79A.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>W</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>Canvas project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Canvas</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>0</integer>
+			<key>signature</key>
+			<string>Build Canvas</string>
+			<key>timeStartedRecording</key>
+			<real>561834822.89962602</real>
+			<key>timeStoppedRecording</key>
+			<real>561834825.28234303</real>
+			<key>title</key>
+			<string>Build Canvas</string>
+			<key>uniqueIdentifier</key>
+			<string>A26562CF-C9EB-4AAA-BC0B-82680A2CF79A</string>
+		</dict>
+		<key>E55AD93A-BB4C-498B-9E25-73798FEE2FF2</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>E55AD93A-BB4C-498B-9E25-73798FEE2FF2.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>W</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>Canvas project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Canvas</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>0</integer>
+			<key>signature</key>
+			<string>Build Canvas</string>
+			<key>timeStartedRecording</key>
+			<real>561834373.65167105</real>
+			<key>timeStoppedRecording</key>
+			<real>561834375.41795695</real>
+			<key>title</key>
+			<string>Build Canvas</string>
+			<key>uniqueIdentifier</key>
+			<string>E55AD93A-BB4C-498B-9E25-73798FEE2FF2</string>
+		</dict>
+		<key>FA2A0CE9-8A6E-4682-82C9-14A1958DA6FE</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>FA2A0CE9-8A6E-4682-82C9-14A1958DA6FE.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>W</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>Canvas project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Canvas</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>0</integer>
+			<key>signature</key>
+			<string>Build Canvas</string>
+			<key>timeStartedRecording</key>
+			<real>561833868.44637704</real>
+			<key>timeStoppedRecording</key>
+			<real>561833874.99819696</real>
+			<key>title</key>
+			<string>Build Canvas</string>
+			<key>uniqueIdentifier</key>
+			<string>FA2A0CE9-8A6E-4682-82C9-14A1958DA6FE</string>
+		</dict>
+		<key>FCF277BB-76DE-40D4-95A2-DADFF890B93E</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>FCF277BB-76DE-40D4-95A2-DADFF890B93E.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>W</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>Canvas project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Canvas</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>0</integer>
+			<key>signature</key>
+			<string>Build Canvas</string>
+			<key>timeStartedRecording</key>
+			<real>561833698.10899305</real>
+			<key>timeStoppedRecording</key>
+			<real>561833701.53149605</real>
+			<key>title</key>
+			<string>Build Canvas</string>
+			<key>uniqueIdentifier</key>
+			<string>FCF277BB-76DE-40D4-95A2-DADFF890B93E</string>
+		</dict>
+	</dict>
+</dict>
+</plist>

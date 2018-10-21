@@ -1,0 +1,388 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>logFormatVersion</key>
+	<integer>9</integer>
+	<key>logs</key>
+	<dict>
+		<key>0371BE55-BD79-4BEB-8823-A87D2120876B</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>0371BE55-BD79-4BEB-8823-A87D2120876B.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>S</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>Canvas project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Canvas</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>0</integer>
+			<key>signature</key>
+			<string>Debug Canvas</string>
+			<key>timeStartedRecording</key>
+			<real>561834516.400509</real>
+			<key>timeStoppedRecording</key>
+			<real>561834639.00272906</real>
+			<key>title</key>
+			<string>Debug Canvas</string>
+			<key>uniqueIdentifier</key>
+			<string>0371BE55-BD79-4BEB-8823-A87D2120876B</string>
+		</dict>
+		<key>08964B3B-71E0-478B-8E1A-AC17285B1009</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>08964B3B-71E0-478B-8E1A-AC17285B1009.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>S</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>Canvas project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Canvas</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>0</integer>
+			<key>signature</key>
+			<string>Debug Canvas</string>
+			<key>timeStartedRecording</key>
+			<real>561834048.17436397</real>
+			<key>timeStoppedRecording</key>
+			<real>561834135.86424804</real>
+			<key>title</key>
+			<string>Debug Canvas</string>
+			<key>uniqueIdentifier</key>
+			<string>08964B3B-71E0-478B-8E1A-AC17285B1009</string>
+		</dict>
+		<key>1E7EFE8B-2691-462E-8E41-E967E4CB3F57</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>1E7EFE8B-2691-462E-8E41-E967E4CB3F57.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>S</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>Canvas project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Canvas</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>0</integer>
+			<key>signature</key>
+			<string>Debug Canvas</string>
+			<key>timeStartedRecording</key>
+			<real>561834709.32115698</real>
+			<key>timeStoppedRecording</key>
+			<real>561834756.51868296</real>
+			<key>title</key>
+			<string>Debug Canvas</string>
+			<key>uniqueIdentifier</key>
+			<string>1E7EFE8B-2691-462E-8E41-E967E4CB3F57</string>
+		</dict>
+		<key>26FEFFD8-3CEB-4753-8279-5C15F7EA1EC2</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>26FEFFD8-3CEB-4753-8279-5C15F7EA1EC2.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>S</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>Canvas project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Canvas</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>0</integer>
+			<key>signature</key>
+			<string>Debug Canvas</string>
+			<key>timeStartedRecording</key>
+			<real>561833874.94830596</real>
+			<key>timeStoppedRecording</key>
+			<real>561834044.89104998</real>
+			<key>title</key>
+			<string>Debug Canvas</string>
+			<key>uniqueIdentifier</key>
+			<string>26FEFFD8-3CEB-4753-8279-5C15F7EA1EC2</string>
+		</dict>
+		<key>55BB0FC8-47E8-40E8-99BC-915064B20D31</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>55BB0FC8-47E8-40E8-99BC-915064B20D31.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>S</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>Canvas project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Canvas</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>0</integer>
+			<key>signature</key>
+			<string>Debug Canvas</string>
+			<key>timeStartedRecording</key>
+			<real>561833410.51578104</real>
+			<key>timeStoppedRecording</key>
+			<real>561833698.33069503</real>
+			<key>title</key>
+			<string>Debug Canvas</string>
+			<key>uniqueIdentifier</key>
+			<string>55BB0FC8-47E8-40E8-99BC-915064B20D31</string>
+		</dict>
+		<key>65ECD054-3FC9-4B85-8539-2639C00ADFCD</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>65ECD054-3FC9-4B85-8539-2639C00ADFCD.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>S</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>Canvas project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Canvas</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>0</integer>
+			<key>signature</key>
+			<string>Debug Canvas</string>
+			<key>timeStartedRecording</key>
+			<real>561834135.246943</real>
+			<key>timeStoppedRecording</key>
+			<real>561834373.96141195</real>
+			<key>title</key>
+			<string>Debug Canvas</string>
+			<key>uniqueIdentifier</key>
+			<string>65ECD054-3FC9-4B85-8539-2639C00ADFCD</string>
+		</dict>
+		<key>89C41C80-2183-4F0A-9D88-4EB772775CC2</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>89C41C80-2183-4F0A-9D88-4EB772775CC2.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>S</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>Canvas project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Canvas</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>0</integer>
+			<key>signature</key>
+			<string>Debug Canvas</string>
+			<key>timeStartedRecording</key>
+			<real>561834825.20226705</real>
+			<key>timeStoppedRecording</key>
+			<real>561834861.95080197</real>
+			<key>title</key>
+			<string>Debug Canvas</string>
+			<key>uniqueIdentifier</key>
+			<string>89C41C80-2183-4F0A-9D88-4EB772775CC2</string>
+		</dict>
+		<key>93AE02C3-67AB-4705-99E9-8E85BFC7AABD</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>93AE02C3-67AB-4705-99E9-8E85BFC7AABD.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>S</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>Canvas project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Canvas</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>0</integer>
+			<key>signature</key>
+			<string>Debug Canvas</string>
+			<key>timeStartedRecording</key>
+			<real>561834758.67689896</real>
+			<key>timeStoppedRecording</key>
+			<real>561834823.12972605</real>
+			<key>title</key>
+			<string>Debug Canvas</string>
+			<key>uniqueIdentifier</key>
+			<string>93AE02C3-67AB-4705-99E9-8E85BFC7AABD</string>
+		</dict>
+		<key>9F2559C6-FD89-4B6B-BDFF-CABF256833C3</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>9F2559C6-FD89-4B6B-BDFF-CABF256833C3.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>S</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>Canvas project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Canvas</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>0</integer>
+			<key>signature</key>
+			<string>Debug Canvas</string>
+			<key>timeStartedRecording</key>
+			<real>561834641.57507896</real>
+			<key>timeStoppedRecording</key>
+			<real>561834706.73083699</real>
+			<key>title</key>
+			<string>Debug Canvas</string>
+			<key>uniqueIdentifier</key>
+			<string>9F2559C6-FD89-4B6B-BDFF-CABF256833C3</string>
+		</dict>
+		<key>B55D565D-7AA3-418D-AB89-CDA363B6843A</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>B55D565D-7AA3-418D-AB89-CDA363B6843A.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>S</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>Canvas project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Canvas</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>0</integer>
+			<key>signature</key>
+			<string>Debug Canvas</string>
+			<key>timeStartedRecording</key>
+			<real>561834863.09115398</real>
+			<key>timeStoppedRecording</key>
+			<real>561834935.41873205</real>
+			<key>title</key>
+			<string>Debug Canvas</string>
+			<key>uniqueIdentifier</key>
+			<string>B55D565D-7AA3-418D-AB89-CDA363B6843A</string>
+		</dict>
+		<key>CEF3EB34-D497-426D-9C28-9F8831C3B9EA</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>CEF3EB34-D497-426D-9C28-9F8831C3B9EA.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>S</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>Canvas project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Canvas</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>0</integer>
+			<key>signature</key>
+			<string>Debug Canvas</string>
+			<key>timeStartedRecording</key>
+			<real>561833701.26622295</real>
+			<key>timeStoppedRecording</key>
+			<real>561833868.73034894</real>
+			<key>title</key>
+			<string>Debug Canvas</string>
+			<key>uniqueIdentifier</key>
+			<string>CEF3EB34-D497-426D-9C28-9F8831C3B9EA</string>
+		</dict>
+		<key>E067D652-D6A4-4FA7-8D66-CBB3C8FAA781</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>E067D652-D6A4-4FA7-8D66-CBB3C8FAA781.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>S</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>Canvas project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Canvas</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>0</integer>
+			<key>signature</key>
+			<string>Debug Canvas</string>
+			<key>timeStartedRecording</key>
+			<real>561833315.79199195</real>
+			<key>timeStoppedRecording</key>
+			<real>561833400.37870598</real>
+			<key>title</key>
+			<string>Debug Canvas</string>
+			<key>uniqueIdentifier</key>
+			<string>E067D652-D6A4-4FA7-8D66-CBB3C8FAA781</string>
+		</dict>
+		<key>ED8A8399-9A95-4614-A7CC-61494D2EA95A</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>ED8A8399-9A95-4614-A7CC-61494D2EA95A.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>S</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>Canvas project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Canvas</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>0</integer>
+			<key>signature</key>
+			<string>Debug Canvas</string>
+			<key>timeStartedRecording</key>
+			<real>561834375.35708499</real>
+			<key>timeStoppedRecording</key>
+			<real>561834514.07604003</real>
+			<key>title</key>
+			<string>Debug Canvas</string>
+			<key>uniqueIdentifier</key>
+			<string>ED8A8399-9A95-4614-A7CC-61494D2EA95A</string>
+		</dict>
+	</dict>
+</dict>
+</plist>
